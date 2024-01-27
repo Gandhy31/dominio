@@ -1,0 +1,12 @@
+C:\Users\Veronica\source\repos\Unach.Codesi.Encuestas\Unach.Codesi.Encuestas.Dominio.Core\obj\Debug\net7.0\Unach.Codesi.Encuestas.Dominio.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Veronica\source\repos\Unach.Codesi.Encuestas\Unach.Codesi.Encuestas.Dominio.Core\obj\Debug\net7.0\Unach.Codesi.Encuestas.Dominio.Core.AssemblyInfoInputs.cache
+C:\Users\Veronica\source\repos\Unach.Codesi.Encuestas\Unach.Codesi.Encuestas.Dominio.Core\obj\Debug\net7.0\Unach.Codesi.Encuestas.Dominio.Core.AssemblyInfo.cs
+C:\Users\Veronica\source\repos\Unach.Codesi.Encuestas\Unach.Codesi.Encuestas.Dominio.Core\obj\Debug\net7.0\Unach.Codesi.Encuestas.Dominio.Core.csproj.CoreCompileInputs.cache
+C:\Users\Veronica\source\repos\Unach.Codesi.Encuestas\Unach.Codesi.Encuestas.Dominio.Core\obj\Debug\net7.0\Unach.Codesi.Encuestas.Dominio.Core.csproj.AssemblyReference.cache
+C:\Users\Veronica\source\repos\Unach.Codesi.Encuestas\Unach.Codesi.Encuestas.Dominio.Core\bin\Debug\net7.0\Unach.Codesi.Encuestas.Dominio.Core.deps.json
+C:\Users\Veronica\source\repos\Unach.Codesi.Encuestas\Unach.Codesi.Encuestas.Dominio.Core\bin\Debug\net7.0\Unach.Codesi.Encuestas.Dominio.Core.dll
+C:\Users\Veronica\source\repos\Unach.Codesi.Encuestas\Unach.Codesi.Encuestas.Dominio.Core\bin\Debug\net7.0\Unach.Codesi.Encuestas.Dominio.Core.pdb
+C:\Users\Veronica\source\repos\Unach.Codesi.Encuestas\Unach.Codesi.Encuestas.Dominio.Core\obj\Debug\net7.0\Unach.Codesi.Encuestas.Dominio.Core.dll
+C:\Users\Veronica\source\repos\Unach.Codesi.Encuestas\Unach.Codesi.Encuestas.Dominio.Core\obj\Debug\net7.0\refint\Unach.Codesi.Encuestas.Dominio.Core.dll
+C:\Users\Veronica\source\repos\Unach.Codesi.Encuestas\Unach.Codesi.Encuestas.Dominio.Core\obj\Debug\net7.0\Unach.Codesi.Encuestas.Dominio.Core.pdb
+C:\Users\Veronica\source\repos\Unach.Codesi.Encuestas\Unach.Codesi.Encuestas.Dominio.Core\obj\Debug\net7.0\ref\Unach.Codesi.Encuestas.Dominio.Core.dll
